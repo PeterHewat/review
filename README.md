@@ -1,3 +1,4 @@
+Prompt 1:
 ```prompt
 review project
 ```
@@ -317,6 +318,7 @@ This is an **exceptionally well-engineered platform** that demonstrates:
 
 ---
 
+Promt 2:
 ```prompt
 FYI: I have done this on my own as a solo dev with help from AI Agents. It's a side project I work on at night from 21:00 to midnight for a little less the 3 months. It's WIP, I expect to release an MVP in a month or so. I am a staff engineer with 20+ years experience. I have otherwise a full time job + a wife and 3 young kids.
 How would you rate this compared to other (similar or not) project?
